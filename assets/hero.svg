@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="t d">
+  <title id="t">An agency that runs on Claude Code</title>
+  <desc id="d">Live client work and two products, run by 30 skills and 8 agents, 19 automations on an autonomy ladder, and a 14-check deploy gate.</desc>
+  <defs>
+    <radialGradient id="glow" cx="0.82" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.55"/>
+      <stop offset="0.55" stop-color="#7C3AED" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.05" cy="1" r="0.55">
+      <stop offset="0" stop-color="#F472B6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect width="1280" height="460" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect width="1280" height="460" fill="#110D1C"/>
+    <rect width="1280" height="460" fill="url(#grid)"/>
+    <rect width="1280" height="460" fill="url(#glow)"/>
+    <rect width="1280" height="460" fill="url(#glow2)"/>
+
+    <text x="64" y="84" font-size="14" font-weight="600" letter-spacing="2.2" fill="#B9B3CC">VEOBIT <tspan fill="#F472B6">/</tspan> FIELD NOTES FROM A WORKING AGENCY</text>
+
+    <text x="62" y="172" font-size="64" font-weight="800" letter-spacing="-2" fill="#FFFFFF">An agency that runs on</text>
+    <text x="62" y="246" font-size="64" font-weight="800" letter-spacing="-2" fill="url(#ink)">Claude Code.</text>
+
+    <text x="64" y="298" font-size="21" fill="#CFCAE0">Real clients, real invoices, two products in production. Skills and agents do the work;</text>
+    <text x="64" y="328" font-size="21" fill="#CFCAE0">gates refuse what is not reviewed; one human says yes.</text>
+
+    <line x1="64" y1="358" x2="1216" y2="358" stroke="#FFFFFF" stroke-opacity="0.1"/>
+
+    <text x="64" y="404" font-weight="800" font-size="38" letter-spacing="-1" fill="#FFFFFF">30</text>
+    <text x="65" y="430" font-size="14.5" fill="#B9B3CC">skills, picked by trigger</text>
+    <text x="258" y="404" font-weight="800" font-size="38" letter-spacing="-1" fill="#FFFFFF">8</text>
+    <text x="259" y="430" font-size="14.5" fill="#B9B3CC">subagents on the bench</text>
+    <text x="452" y="404" font-weight="800" font-size="38" letter-spacing="-1" fill="#FFFFFF">19</text>
+    <text x="453" y="430" font-size="14.5" fill="#B9B3CC">automations, trust earned</text>
+    <text x="646" y="404" font-weight="800" font-size="38" letter-spacing="-1" fill="#FFFFFF">14</text>
+    <text x="647" y="430" font-size="14.5" fill="#B9B3CC">checks in the deploy gate</text>
+    <text x="840" y="404" font-weight="800" font-size="38" letter-spacing="-1" fill="#FFFFFF">6</text>
+    <text x="841" y="430" font-size="14.5" fill="#B9B3CC">sites on the build kit</text>
+    <text x="1034" y="404" font-weight="800" font-size="38" letter-spacing="-1" fill="#FFFFFF">2</text>
+    <text x="1035" y="430" font-size="14.5" fill="#B9B3CC">products in production</text>
+  </g>
+</svg>

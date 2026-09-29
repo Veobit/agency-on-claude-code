@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="898" viewBox="0 0 1280 898" role="img" aria-labelledby="t d">
+  <title id="t">Four layers of the agency</title>
+  <desc id="d">An owner who approves; an operating layer of sessions, a business spine and gates; a workforce of skills and agents; the marketing layer clients pay for; and a product layer of software the agency owns.</desc>
+  <defs><clipPath id="card"><rect width="1280" height="898" rx="24"/></clipPath></defs>
+  <g clip-path="url(#card)" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1280" height="898" fill="#110D1C"/>
+  <rect x="390" y="30" width="500" height="48" rx="24" fill="#FFFFFF"/>
+  <text x="640" y="60" text-anchor="middle" font-size="16" font-weight="700" fill="#110D1C">Owner  ·  approves outreach, money and launches</text>
+  <line x1="640" y1="78" x2="640" y2="104" stroke="#FFFFFF" stroke-opacity="0.3" stroke-width="2" stroke-dasharray="4 4"/>
+  <rect x="40" y="104" width="1200" height="176" rx="18" fill="#18132A" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="40" y="104" width="8" height="176" rx="4" fill="#8B5CF6"/>
+  <text x="80" y="148" font-size="13" font-weight="700" letter-spacing="2" fill="#8F88A8">LAYER 01</text>
+  <text x="80" y="182" font-size="27" font-weight="800" letter-spacing="-0.6" fill="#FFFFFF">Operating layer</text>
+  <text x="80" y="214" font-size="15" fill="#B9B3CC">How the business is run:</text>
+  <text x="80" y="235" font-size="15" fill="#B9B3CC">sessions, one record, and</text>
+  <text x="80" y="256" font-size="15" fill="#B9B3CC">gates that refuse.</text>
+  <rect x="400" y="126" width="258" height="60" rx="12" fill="#221B38" stroke="#8B5CF6" stroke-opacity="0.55"/>
+  <circle cx="418" cy="149" r="4" fill="#8B5CF6"/>
+  <text x="432" y="154" font-size="15.5" font-weight="700" fill="#FFFFFF">Coordinating session</text>
+  <text x="432" y="173" font-size="13" fill="#B9B3CC">reviews, relays, pushes back</text>
+  <rect x="672" y="126" width="258" height="60" rx="12" fill="#221B38" stroke="#8B5CF6" stroke-opacity="0.55"/>
+  <circle cx="690" cy="149" r="4" fill="#8B5CF6"/>
+  <text x="704" y="154" font-size="15.5" font-weight="700" fill="#FFFFFF">Operator sessions</text>
+  <text x="704" y="173" font-size="13" fill="#B9B3CC">one per mandate, report up</text>
+  <rect x="944" y="126" width="258" height="60" rx="12" fill="#221B38" stroke="#8B5CF6" stroke-opacity="0.55"/>
+  <circle cx="962" cy="149" r="4" fill="#8B5CF6"/>
+  <text x="976" y="154" font-size="15.5" font-weight="700" fill="#FFFFFF">Business spine</text>
+  <text x="976" y="173" font-size="13" fill="#B9B3CC">one record, every entry sourced</text>
+  <rect x="400" y="196" width="258" height="60" rx="12" fill="#221B38" stroke="#8B5CF6" stroke-opacity="0.55"/>
+  <circle cx="418" cy="219" r="4" fill="#8B5CF6"/>
+  <text x="432" y="224" font-size="15.5" font-weight="700" fill="#FFFFFF">Guard hook</text>
+  <text x="432" y="243" font-size="13" fill="#B9B3CC">refuses unreviewed pushes</text>
+  <rect x="672" y="196" width="258" height="60" rx="12" fill="#221B38" stroke="#8B5CF6" stroke-opacity="0.55"/>
+  <circle cx="690" cy="219" r="4" fill="#8B5CF6"/>
+  <text x="704" y="224" font-size="15.5" font-weight="700" fill="#FFFFFF">Autonomy ladder</text>
+  <text x="704" y="243" font-size="13" fill="#B9B3CC">trust earned, lost on incident</text>
+  <rect x="944" y="196" width="258" height="60" rx="12" fill="#221B38" stroke="#8B5CF6" stroke-opacity="0.55"/>
+  <circle cx="962" cy="219" r="4" fill="#8B5CF6"/>
+  <text x="976" y="224" font-size="15.5" font-weight="700" fill="#FFFFFF">Unattended fleet</text>
+  <text x="976" y="243" font-size="13" fill="#B9B3CC">scheduled jobs with pulse logs</text>
+  <line x1="84" y1="280" x2="84" y2="298" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="2"/>
+  <rect x="40" y="298" width="1200" height="176" rx="18" fill="#18132A" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="40" y="298" width="8" height="176" rx="4" fill="#0891B2"/>
+  <text x="80" y="342" font-size="13" font-weight="700" letter-spacing="2" fill="#8F88A8">LAYER 02</text>
+  <text x="80" y="376" font-size="27" font-weight="800" letter-spacing="-0.6" fill="#FFFFFF">Skills and agents</text>
+  <text x="80" y="408" font-size="15" fill="#B9B3CC">The workforce: craft skills,</text>
+  <text x="80" y="429" font-size="15" fill="#B9B3CC">outcome skills that run them</text>
+  <text x="80" y="450" font-size="15" fill="#B9B3CC">as a team, and subagents.</text>
+  <rect x="400" y="320" width="258" height="60" rx="12" fill="#221B38" stroke="#0891B2" stroke-opacity="0.55"/>
+  <circle cx="418" cy="343" r="4" fill="#0891B2"/>
+  <text x="432" y="348" font-size="15.5" font-weight="700" fill="#FFFFFF">9 outcome skills</text>
+  <text x="432" y="367" font-size="13" fill="#B9B3CC">run the craft skills as a team</text>
+  <rect x="672" y="320" width="258" height="60" rx="12" fill="#221B38" stroke="#0891B2" stroke-opacity="0.55"/>
+  <circle cx="690" cy="343" r="4" fill="#0891B2"/>
+  <text x="704" y="348" font-size="15.5" font-weight="700" fill="#FFFFFF">21 craft skills</text>
+  <text x="704" y="367" font-size="13" fill="#B9B3CC">SEO, ads, copy, CRO, design</text>
+  <rect x="944" y="320" width="258" height="60" rx="12" fill="#221B38" stroke="#0891B2" stroke-opacity="0.55"/>
+  <circle cx="962" cy="343" r="4" fill="#0891B2"/>
+  <text x="976" y="348" font-size="15.5" font-weight="700" fill="#FFFFFF">8 subagents</text>
+  <text x="976" y="367" font-size="13" fill="#B9B3CC">analyst, curator, specialists</text>
+  <rect x="400" y="390" width="258" height="60" rx="12" fill="#221B38" stroke="#0891B2" stroke-opacity="0.55"/>
+  <circle cx="418" cy="413" r="4" fill="#0891B2"/>
+  <text x="432" y="418" font-size="15.5" font-weight="700" fill="#FFFFFF">Design chain</text>
+  <text x="432" y="437" font-size="13" fill="#B9B3CC">brief, concepts, critique, deck</text>
+  <rect x="672" y="390" width="258" height="60" rx="12" fill="#221B38" stroke="#0891B2" stroke-opacity="0.55"/>
+  <circle cx="690" cy="413" r="4" fill="#0891B2"/>
+  <text x="704" y="418" font-size="15.5" font-weight="700" fill="#FFFFFF">Review floors</text>
+  <text x="704" y="437" font-size="13" fill="#B9B3CC">scored critique before it ships</text>
+  <rect x="944" y="390" width="258" height="60" rx="12" fill="#221B38" stroke="#0891B2" stroke-opacity="0.55"/>
+  <circle cx="962" cy="413" r="4" fill="#0891B2"/>
+  <text x="976" y="418" font-size="15.5" font-weight="700" fill="#FFFFFF">Routing contract</text>
+  <text x="976" y="437" font-size="13" fill="#B9B3CC">right skill picked by default</text>
+  <line x1="84" y1="474" x2="84" y2="492" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="2"/>
+  <rect x="40" y="492" width="1200" height="176" rx="18" fill="#18132A" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="40" y="492" width="8" height="176" rx="4" fill="#D97706"/>
+  <text x="80" y="536" font-size="13" font-weight="700" letter-spacing="2" fill="#8F88A8">LAYER 03</text>
+  <text x="80" y="570" font-size="27" font-weight="800" letter-spacing="-0.6" fill="#FFFFFF">Marketing layer</text>
+  <text x="80" y="602" font-size="15" fill="#B9B3CC">The service clients pay for:</text>
+  <text x="80" y="623" font-size="15" fill="#B9B3CC">sites, search, ads, analytics</text>
+  <text x="80" y="644" font-size="15" fill="#B9B3CC">and the monthly proof.</text>
+  <rect x="400" y="514" width="258" height="60" rx="12" fill="#221B38" stroke="#D97706" stroke-opacity="0.55"/>
+  <circle cx="418" cy="537" r="4" fill="#D97706"/>
+  <text x="432" y="542" font-size="15.5" font-weight="700" fill="#FFFFFF">Site kit</text>
+  <text x="432" y="561" font-size="13" fill="#B9B3CC">Eleventy, Cloudflare, 14 checks</text>
+  <rect x="672" y="514" width="258" height="60" rx="12" fill="#221B38" stroke="#D97706" stroke-opacity="0.55"/>
+  <circle cx="690" cy="537" r="4" fill="#D97706"/>
+  <text x="704" y="542" font-size="15.5" font-weight="700" fill="#FFFFFF">Google Ads MCP</text>
+  <text x="704" y="561" font-size="13" fill="#B9B3CC">forked onto the official client</text>
+  <rect x="944" y="514" width="258" height="60" rx="12" fill="#221B38" stroke="#D97706" stroke-opacity="0.55"/>
+  <circle cx="962" cy="537" r="4" fill="#D97706"/>
+  <text x="976" y="542" font-size="15.5" font-weight="700" fill="#FFFFFF">GA4 · GTM · Search Console</text>
+  <text x="976" y="561" font-size="13" fill="#B9B3CC">custom MCP servers, governed</text>
+  <rect x="400" y="584" width="258" height="60" rx="12" fill="#221B38" stroke="#D97706" stroke-opacity="0.55"/>
+  <circle cx="418" cy="607" r="4" fill="#D97706"/>
+  <text x="432" y="612" font-size="15.5" font-weight="700" fill="#FFFFFF">Analytics learning loop</text>
+  <text x="432" y="631" font-size="13" fill="#B9B3CC">signals graded on outcomes</text>
+  <rect x="672" y="584" width="258" height="60" rx="12" fill="#221B38" stroke="#D97706" stroke-opacity="0.55"/>
+  <circle cx="690" cy="607" r="4" fill="#D97706"/>
+  <text x="704" y="612" font-size="15.5" font-weight="700" fill="#FFFFFF">Local and reviews</text>
+  <text x="704" y="631" font-size="13" fill="#B9B3CC">profiles, citations, review asks</text>
+  <rect x="944" y="584" width="258" height="60" rx="12" fill="#221B38" stroke="#D97706" stroke-opacity="0.55"/>
+  <circle cx="962" cy="607" r="4" fill="#D97706"/>
+  <text x="976" y="612" font-size="15.5" font-weight="700" fill="#FFFFFF">Monthly reports</text>
+  <text x="976" y="631" font-size="13" fill="#B9B3CC">value in the client's numbers</text>
+  <line x1="84" y1="668" x2="84" y2="686" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="2"/>
+  <rect x="40" y="686" width="1200" height="176" rx="18" fill="#18132A" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="40" y="686" width="8" height="176" rx="4" fill="#DB2777"/>
+  <text x="80" y="730" font-size="13" font-weight="700" letter-spacing="2" fill="#8F88A8">LAYER 04</text>
+  <text x="80" y="764" font-size="27" font-weight="800" letter-spacing="-0.6" fill="#FFFFFF">Product layer</text>
+  <text x="80" y="796" font-size="15" fill="#B9B3CC">Software we own, built with</text>
+  <text x="80" y="817" font-size="15" fill="#B9B3CC">the same machinery, running</text>
+  <text x="80" y="838" font-size="15" fill="#B9B3CC">in production.</text>
+  <rect x="400" y="708" width="258" height="60" rx="12" fill="#221B38" stroke="#DB2777" stroke-opacity="0.55"/>
+  <circle cx="418" cy="731" r="4" fill="#DB2777"/>
+  <text x="432" y="736" font-size="15.5" font-weight="700" fill="#FFFFFF">HouseOpen</text>
+  <text x="432" y="755" font-size="13" fill="#B9B3CC">open-house sign-in SaaS, live</text>
+  <rect x="672" y="708" width="258" height="60" rx="12" fill="#221B38" stroke="#DB2777" stroke-opacity="0.55"/>
+  <circle cx="690" cy="731" r="4" fill="#DB2777"/>
+  <text x="704" y="736" font-size="15.5" font-weight="700" fill="#FFFFFF">Agency CRM</text>
+  <text x="704" y="755" font-size="13" fill="#B9B3CC">lead follow-up + fee ledger</text>
+  <rect x="944" y="708" width="258" height="60" rx="12" fill="#221B38" stroke="#DB2777" stroke-opacity="0.55"/>
+  <circle cx="962" cy="731" r="4" fill="#DB2777"/>
+  <text x="976" y="736" font-size="15.5" font-weight="700" fill="#FFFFFF">Ship skill</text>
+  <text x="976" y="755" font-size="13" fill="#B9B3CC">tests, security review, live check</text>
+  <rect x="400" y="778" width="258" height="60" rx="12" fill="#221B38" stroke="#DB2777" stroke-opacity="0.55"/>
+  <circle cx="418" cy="801" r="4" fill="#DB2777"/>
+  <text x="432" y="806" font-size="15.5" font-weight="700" fill="#FFFFFF">A2P SMS, approved</text>
+  <text x="432" y="825" font-size="13" fill="#B9B3CC">carrier-verified guest texts</text>
+  <rect x="672" y="778" width="258" height="60" rx="12" fill="#221B38" stroke="#DB2777" stroke-opacity="0.55"/>
+  <circle cx="690" cy="801" r="4" fill="#DB2777"/>
+  <text x="704" y="806" font-size="15.5" font-weight="700" fill="#FFFFFF">Product records</text>
+  <text x="704" y="825" font-size="13" fill="#B9B3CC">changelog, bug log, decisions</text>
+  <rect x="944" y="778" width="258" height="60" rx="12" fill="#221B38" stroke="#DB2777" stroke-opacity="0.55"/>
+  <circle cx="962" cy="801" r="4" fill="#DB2777"/>
+  <text x="976" y="806" font-size="15.5" font-weight="700" fill="#FFFFFF">Customer zero</text>
+  <text x="976" y="825" font-size="13" fill="#B9B3CC">it runs our own engagement first</text>
+  </g>
+</svg>

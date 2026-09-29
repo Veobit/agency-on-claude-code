@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="470" viewBox="0 0 1280 470" role="img" aria-labelledby="t d">
+  <title id="t">One client, start to finish</title>
+  <desc id="d">Six outcome skills in order: audit, pitch, onboard, studio, launch, report. The owner sends every proposal; studio and launch are hard gates. Follow-up and local run alongside.</desc>
+  <defs><clipPath id="card"><rect width="1280" height="470" rx="24"/></clipPath></defs>
+  <g clip-path="url(#card)" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1280" height="470" fill="#110D1C"/>
+  <text x="56" y="70" font-size="13" font-weight="700" letter-spacing="2" fill="#8F88A8">OUTCOME SKILLS</text>
+  <text x="56" y="106" font-size="30" font-weight="800" letter-spacing="-0.8" fill="#FFFFFF">One client, start to finish</text>
+  <line x1="128" y1="176" x2="1148" y2="176" stroke="#0891B2" stroke-width="3" stroke-opacity="0.7"/>
+  <circle cx="128" cy="176" r="22" fill="#110D1C" stroke="#0891B2" stroke-width="3"/>
+  <text x="128" y="182" text-anchor="middle" font-size="16" font-weight="800" fill="#FFFFFF">1</text>
+  <rect x="36" y="218" width="184" height="150" rx="14" fill="#18132A" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <text x="54" y="256" font-size="22" font-weight="800" letter-spacing="-0.4" fill="#FFFFFF">audit</text>
+  <text x="54" y="288" font-size="13.5" fill="#B9B3CC">Four lenses in parallel,</text>
+  <text x="54" y="309" font-size="13.5" fill="#B9B3CC">one keep, merge or retire</text>
+  <text x="54" y="330" font-size="13.5" fill="#B9B3CC">call for every page.</text>
+  <circle cx="332" cy="176" r="22" fill="#110D1C" stroke="#0891B2" stroke-width="3"/>
+  <text x="332" y="182" text-anchor="middle" font-size="16" font-weight="800" fill="#FFFFFF">2</text>
+  <rect x="240" y="218" width="184" height="150" rx="14" fill="#18132A" stroke="#FFFFFF" stroke-opacity="0.35"/>
+  <text x="258" y="256" font-size="22" font-weight="800" letter-spacing="-0.4" fill="#FFFFFF">pitch</text>
+  <text x="258" y="288" font-size="13.5" fill="#B9B3CC">Priced from the client's</text>
+  <text x="258" y="309" font-size="13.5" fill="#B9B3CC">own numbers. The owner</text>
+  <text x="258" y="330" font-size="13.5" fill="#B9B3CC">reviews it and sends it.</text>
+  <rect x="272.8" y="114" width="118.4" height="26" rx="13" fill="#FFFFFF"/>
+  <text x="332" y="132" text-anchor="middle" font-size="12" font-weight="800" letter-spacing="1.4" fill="#110D1C">OWNER SENDS</text>
+  <circle cx="536" cy="176" r="22" fill="#110D1C" stroke="#0891B2" stroke-width="3"/>
+  <text x="536" y="182" text-anchor="middle" font-size="16" font-weight="800" fill="#FFFFFF">3</text>
+  <rect x="444" y="218" width="184" height="150" rx="14" fill="#18132A" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <text x="462" y="256" font-size="22" font-weight="800" letter-spacing="-0.4" fill="#FFFFFF">onboard</text>
+  <text x="462" y="288" font-size="13.5" fill="#B9B3CC">Access verified live,</text>
+  <text x="462" y="309" font-size="13.5" fill="#B9B3CC">records opened, and a</text>
+  <text x="462" y="330" font-size="13.5" fill="#B9B3CC">checklist nothing skips.</text>
+  <circle cx="740" cy="176" r="22" fill="#110D1C" stroke="#0891B2" stroke-width="3"/>
+  <text x="740" y="182" text-anchor="middle" font-size="16" font-weight="800" fill="#FFFFFF">4</text>
+  <rect x="648" y="218" width="184" height="150" rx="14" fill="#18132A" stroke="#FFFFFF" stroke-opacity="0.35"/>
+  <text x="666" y="256" font-size="22" font-weight="800" letter-spacing="-0.4" fill="#FFFFFF">studio</text>
+  <text x="666" y="288" font-size="13.5" fill="#B9B3CC">Brief, concepts, scored</text>
+  <text x="666" y="309" font-size="13.5" fill="#B9B3CC">critique. No critique,</text>
+  <text x="666" y="330" font-size="13.5" fill="#B9B3CC">the push is refused.</text>
+  <rect x="710.2" y="114" width="59.6" height="26" rx="13" fill="#FFFFFF"/>
+  <text x="740" y="132" text-anchor="middle" font-size="12" font-weight="800" letter-spacing="1.4" fill="#110D1C">GATE</text>
+  <circle cx="944" cy="176" r="22" fill="#110D1C" stroke="#0891B2" stroke-width="3"/>
+  <text x="944" y="182" text-anchor="middle" font-size="16" font-weight="800" fill="#FFFFFF">5</text>
+  <rect x="852" y="218" width="184" height="150" rx="14" fill="#18132A" stroke="#FFFFFF" stroke-opacity="0.35"/>
+  <text x="870" y="256" font-size="22" font-weight="800" letter-spacing="-0.4" fill="#FFFFFF">launch</text>
+  <text x="870" y="288" font-size="13.5" fill="#B9B3CC">Redirects, tracking, DNS</text>
+  <text x="870" y="309" font-size="13.5" fill="#B9B3CC">plan, a 14-day watch. No</text>
+  <text x="870" y="330" font-size="13.5" fill="#B9B3CC">sign-off, no go-live.</text>
+  <rect x="914.2" y="114" width="59.6" height="26" rx="13" fill="#FFFFFF"/>
+  <text x="944" y="132" text-anchor="middle" font-size="12" font-weight="800" letter-spacing="1.4" fill="#110D1C">GATE</text>
+  <circle cx="1148" cy="176" r="22" fill="#110D1C" stroke="#0891B2" stroke-width="3"/>
+  <text x="1148" y="182" text-anchor="middle" font-size="16" font-weight="800" fill="#FFFFFF">6</text>
+  <rect x="1056" y="218" width="184" height="150" rx="14" fill="#18132A" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <text x="1074" y="256" font-size="22" font-weight="800" letter-spacing="-0.4" fill="#FFFFFF">report</text>
+  <text x="1074" y="288" font-size="13.5" fill="#B9B3CC">What moved, what it is</text>
+  <text x="1074" y="309" font-size="13.5" fill="#B9B3CC">worth, what comes next,</text>
+  <text x="1074" y="330" font-size="13.5" fill="#B9B3CC">and the renewal signal.</text>
+  <rect x="56" y="404" width="1168" height="42" rx="21" fill="#18132A" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <text x="640" y="431" text-anchor="middle" font-size="15" fill="#B9B3CC"><tspan font-weight="700" fill="#FFFFFF">Running alongside:</tspan>  follow-up (speed-to-lead sequences, drafts only)   ·   local (profiles, citations, reviews)</text>
+  </g>
+</svg>
