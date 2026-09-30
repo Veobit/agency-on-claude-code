@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="492" viewBox="0 0 1280 492" role="img" aria-labelledby="t d">
   <title id="t">Automations by autonomy level</title>
-  <desc id="d">Live automations per level: L0 propose only, 5. L1 act and report, 8. L2 act within a scope, 6. L3 tune itself, none yet.</desc>
+  <desc id="d">Registered automations per level: L0 propose only, 5. L1 act and report, 8. L2 act within a scope, 6. L3 tune itself, none yet.</desc>
   <defs><clipPath id="card"><rect width="1280" height="492" rx="24"/></clipPath></defs>
   <g clip-path="url(#card)" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
   <rect width="1280" height="492" fill="#110D1C"/>
   <text x="56" y="70" font-size="13" font-weight="700" letter-spacing="2" fill="#8F88A8">THE AUTONOMY LADDER</text>
-  <text x="56" y="106" font-size="30" font-weight="800" letter-spacing="-0.8" fill="#FFFFFF">Trust is earned per automation, one level at a time</text>
+  <text x="56" y="106" font-size="30" font-weight="800" letter-spacing="-0.8" fill="#FFFFFF">Every automation sits on a trust level</text>
   <text x="56" y="164" font-size="20" font-weight="800" fill="#FFFFFF">L0</text>
   <text x="100" y="158" font-size="16" font-weight="700" fill="#FFFFFF">Propose only</text>
   <text x="100" y="178" font-size="13.5" fill="#B9B3CC">every action is a proposal the owner approves</text>
@@ -20,7 +20,7 @@
   <text x="1094" y="230" font-size="18" font-weight="800" fill="#FFFFFF">8</text>
   <text x="56" y="292" font-size="20" font-weight="800" fill="#FFFFFF">L2</text>
   <text x="100" y="286" font-size="16" font-weight="700" fill="#FFFFFF">Act within a scope</text>
-  <text x="100" y="306" font-size="13.5" fill="#B9B3CC">the exact blast radius its case named</text>
+  <text x="100" y="306" font-size="13.5" fill="#B9B3CC">inside a named, limited scope</text>
   <line x1="520" y1="316" x2="1224" y2="316" stroke="#FFFFFF" stroke-opacity="0.06"/>
   <path d="M520 274h416a4 4 0 0 1 4 4v20a4 4 0 0 1-4 4h-416z" fill="#8B5CF6"/>
   <text x="954" y="294" font-size="18" font-weight="800" fill="#FFFFFF">6</text>
@@ -29,9 +29,9 @@
   <text x="100" y="370" font-size="13.5" fill="#B9B3CC">adjusts its own thresholds within bounds</text>
   <line x1="520" y1="380" x2="1224" y2="380" stroke="#FFFFFF" stroke-opacity="0.06"/>
   <rect x="520" y="338" width="70" height="28" rx="4" fill="none" stroke="#8F88A8" stroke-dasharray="4 4"/>
-  <text x="604" y="358" font-size="15" fill="#B9B3CC">none yet, not earned</text>
+  <text x="604" y="358" font-size="15" fill="#B9B3CC">none yet</text>
   <line x1="520" y1="138" x2="520" y2="380" stroke="#FFFFFF" stroke-opacity="0.3"/>
-  <text x="56" y="448" font-size="14.5" fill="#B9B3CC">Propose-only is the default for anything new. Up one level per graduation case with a track record; down one level on any harmful</text>
-  <text x="56" y="470" font-size="14.5" fill="#B9B3CC">error, silent failure or correction. Outreach, money and client-facing changes stay manual unless a case names them explicitly.</text>
+  <text x="56" y="448" font-size="14.5" fill="#B9B3CC">Levels were set from how each automation already ran. Propose-only is the default for anything new. Up one level takes a case</text>
+  <text x="56" y="470" font-size="14.5" fill="#B9B3CC">with a track record; down one on any harmful error or silent failure. New outreach, money and client-facing changes stay manual.</text>
   </g>
 </svg>

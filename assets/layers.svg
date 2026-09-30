@@ -29,11 +29,11 @@
   <rect x="400" y="196" width="258" height="60" rx="12" fill="#221B38" stroke="#8B5CF6" stroke-opacity="0.55"/>
   <circle cx="418" cy="219" r="4" fill="#8B5CF6"/>
   <text x="432" y="224" font-size="15.5" font-weight="700" fill="#FFFFFF">Guard hook</text>
-  <text x="432" y="243" font-size="13" fill="#B9B3CC">refuses unreviewed pushes</text>
+  <text x="432" y="243" font-size="13" fill="#B9B3CC">refuses unreviewed site pushes</text>
   <rect x="672" y="196" width="258" height="60" rx="12" fill="#221B38" stroke="#8B5CF6" stroke-opacity="0.55"/>
   <circle cx="690" cy="219" r="4" fill="#8B5CF6"/>
   <text x="704" y="224" font-size="15.5" font-weight="700" fill="#FFFFFF">Autonomy ladder</text>
-  <text x="704" y="243" font-size="13" fill="#B9B3CC">trust earned, lost on incident</text>
+  <text x="704" y="243" font-size="13" fill="#B9B3CC">a trust level per automation</text>
   <rect x="944" y="196" width="258" height="60" rx="12" fill="#221B38" stroke="#8B5CF6" stroke-opacity="0.55"/>
   <circle cx="962" cy="219" r="4" fill="#8B5CF6"/>
   <text x="976" y="224" font-size="15.5" font-weight="700" fill="#FFFFFF">Unattended fleet</text>
@@ -93,7 +93,7 @@
   <rect x="400" y="584" width="258" height="60" rx="12" fill="#221B38" stroke="#D97706" stroke-opacity="0.55"/>
   <circle cx="418" cy="607" r="4" fill="#D97706"/>
   <text x="432" y="612" font-size="15.5" font-weight="700" fill="#FFFFFF">Analytics learning loop</text>
-  <text x="432" y="631" font-size="13" fill="#B9B3CC">signals graded on outcomes</text>
+  <text x="432" y="631" font-size="13" fill="#B9B3CC">built to grade signals on outcomes</text>
   <rect x="672" y="584" width="258" height="60" rx="12" fill="#221B38" stroke="#D97706" stroke-opacity="0.55"/>
   <circle cx="690" cy="607" r="4" fill="#D97706"/>
   <text x="704" y="612" font-size="15.5" font-weight="700" fill="#FFFFFF">Local and reviews</text>
